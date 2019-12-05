@@ -1,5 +1,6 @@
-package com.example.notepadjpa;
+package com.example.notepadjpa.repositories;
 
+import com.example.notepadjpa.models.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

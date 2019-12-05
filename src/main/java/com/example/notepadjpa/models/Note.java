@@ -1,6 +1,4 @@
-package com.example.notepadjpa;
-
-import org.hibernate.annotations.Generated;
+package com.example.notepadjpa.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
